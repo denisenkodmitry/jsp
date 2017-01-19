@@ -1,7 +1,7 @@
-package main.java.servlets;
+package servlets;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import main.java.vo.Article;
+import vo.Article;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
