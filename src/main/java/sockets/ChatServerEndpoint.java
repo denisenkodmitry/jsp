@@ -1,6 +1,7 @@
-package sockets;
+package main.java.sockets;
 
-import chat.ChatMessage;
+
+import main.java.chat.ChatMessage;
 
 import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;

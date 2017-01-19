@@ -1,4 +1,4 @@
-package chat;
+package main.java.chat;
 
 import javax.json.Json;
 import javax.json.JsonObject;

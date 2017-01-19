@@ -1,7 +1,7 @@
-package servlets;
+package main.java.servlets;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import vo.Article;
+import main.java.vo.Article;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.List;
+
 
 /**
  * @author dmitry d

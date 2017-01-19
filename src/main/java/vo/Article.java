@@ -1,4 +1,4 @@
-package vo;
+package main.java.vo;
 
 import java.util.List;
 
